@@ -1,9 +1,9 @@
-### Igor Gonçalves 💻
+### Pedro Augusto 💻
 <p>Olá, seja muito bem vindo! </p>
 
 ------------
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0096c7?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://https://www.linkedin.com/in/igor-gon%C3%A7alves-0019751aa/)](https://https://www.linkedin.com/in/igor-gon%C3%A7alves-0019751aa/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0096c7?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/igor-gon%C3%A7alves-0019751aa/)](https://www.linkedin.com/in/igor-gon%C3%A7alves-0019751aa/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-ef233c?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:p.augusto.rib@gmail.com)](mailto:p.augusto.rib@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0096c7?style=for-the-badge&logo=Telegram&logoColor=white&link=https:https://t.me/pedr0735)](https://t.me/pedr0735)
 
