@@ -1,16 +1,33 @@
-### Hi there 👋
+### Igor Gonçalves 💻
+<p>Olá, seja muito bem vindo! </p>
 
-<!--
-**IgorGonc/IgorGonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------------
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0096c7?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://https://www.linkedin.com/in/igor-gon%C3%A7alves-0019751aa//)](https://https://www.linkedin.com/in/igor-gon%C3%A7alves-0019751aa//)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-ef233c?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:p.augusto.rib@gmail.com)](mailto:p.augusto.rib@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0096c7?style=for-the-badge&logo=Telegram&logoColor=white&link=https:https://t.me/pedr0735)](https://t.me/pedr0735)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Habilidades
+------------
+
+> Atualmente eu estou focado em programar nas seguintes linguagens, frameworks e ferramentas.
+
+> - Javascript
+> - VueJS
+> - React
+> - React Native
+> - NativeScript
+> - Typescript
+> - Git
+> - Amazon Cognito
+
+> - 🌱  Aprendendo Dart.
+
+##
+
+### Foco
+------------
+
+> Meu objetivo é me tornar referência como desenvolvedor, podendo aplicar meus conhecimentos em projetos que possam de fato contribuir com a sociedade.
