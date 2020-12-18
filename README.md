@@ -21,7 +21,7 @@
 > - PROATIVO/COLABORATIVO
 > - INGLÊS
 
-> - 🌱  Cursando Redes de Computadores.
+> -  Cursando Redes de Computadores.
 
 ##
 
