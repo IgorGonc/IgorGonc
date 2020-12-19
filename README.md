@@ -15,10 +15,7 @@
 > - CSS
 > - HTML
 > - GIT
-> - REACT NATIVE
-> - NODE
-> - JAVA SCRIPT
-> - PROATIVO/COLABORATIVO
+> - PYTHON
 > - INGLÊS
 
 > -  Cursando Redes de Computadores.
