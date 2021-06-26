@@ -1,5 +1,7 @@
 ### Igor Gonçalves 💻
-<p>Olá, seja muito bem vindo! </p>
+<p>Hello, welcome to my profile!</p>
+
+<p> I´m a developer focused on solutions with Python and frameworks like Django </p>
 
 ------------
 
@@ -9,20 +11,17 @@
 
 
 
-### Habilidades
+### Skills
 ------------
 
-> - CSS
-> - HTML
-> - GIT
 > - PYTHON
-> - INGLÊS
+> - DJANGO
+> - HTML 
+> - CSS
 
-> -  Cursando Redes de Computadores.
 
 ##
 
 ### Foco
 ------------
 
-> Tenho como foco me tornar um grande profissional de TI e colaborar com a sociedade.
