@@ -1,7 +1,7 @@
 ### Igor Gonçalves 💻
 <p>Hello, welcome to my profile!</p>
 
-<p> I´m a developer focused on solutions with Python and frameworks like Django </p>
+<p>  </p>
 
 ------------
 
@@ -18,6 +18,7 @@
 > - DJANGO
 > - HTML 
 > - CSS
+> - Java
 
 
 ##
