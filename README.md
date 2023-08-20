@@ -14,8 +14,8 @@
 ### Skills
 ------------
 
-> - PYTHON
-> - DJANGO
+> - MYSQL
+> - POSTGRESQL
 > - HTML 
 > - CSS
 > - Java
