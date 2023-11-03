@@ -16,9 +16,13 @@
 
 > - MYSQL
 > - POSTGRESQL
+> - MongoDB
 > - HTML 
 > - CSS
 > - Java
+> - JavaScript
+> - AngularJs
+> - SpringBoot
 
 
 ##
